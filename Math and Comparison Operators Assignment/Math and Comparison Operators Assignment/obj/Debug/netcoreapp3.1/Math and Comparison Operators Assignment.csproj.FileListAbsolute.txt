@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\bin\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.exe
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\bin\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.deps.json
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\bin\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.runtimeconfig.json
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\bin\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.runtimeconfig.dev.json
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\bin\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.dll
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\bin\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.pdb
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\obj\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\obj\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\obj\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\obj\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.AssemblyInfo.cs
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\obj\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\obj\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.dll
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\obj\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.pdb
+C:\Users\micha\source\repos\Math and Comparison Operators Assignment\Math and Comparison Operators Assignment\obj\Debug\netcoreapp3.1\Math and Comparison Operators Assignment.genruntimeconfig.cache
