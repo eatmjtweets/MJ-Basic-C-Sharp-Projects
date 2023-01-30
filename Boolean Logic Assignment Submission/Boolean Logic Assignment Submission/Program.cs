@@ -11,10 +11,9 @@ namespace Boolean_Logic_Assignment_Submission
 
 
             //Applicant's Age
-            int applicantAge = 15;
+            
             Console.WriteLine("What is your age?");
-            bool ageResult = (applicantAge >= 15);
-            Console.ReadLine();
+            int age = Convert.ToInt32(Console.ReadLine());
 
 
 
@@ -26,15 +25,14 @@ namespace Boolean_Logic_Assignment_Submission
 
 
             //Applicant's Speeding ticket
-            int applicantTicket = 3;
+            
             Console.WriteLine("How many speeding tickets do you have?");
-            bool ticketResult = (applicantTicket <= 3);
-            Console.ReadLine();
+            int applicantTicket = Convert.ToInt32(Console.ReadLine());
 
 
             //Bool Qualified
             Console.WriteLine("Qualified?:");
-            bool qualificationResult = (applicantAge >= 15 && applicantWithDui != true && applicantTicket <= 3);
+            bool qualificationResult = (age >= 15 && applicantWithDui != true && applicantTicket <= 3);
             Console.WriteLine(qualificationResult);
             Console.ReadLine();
         }
