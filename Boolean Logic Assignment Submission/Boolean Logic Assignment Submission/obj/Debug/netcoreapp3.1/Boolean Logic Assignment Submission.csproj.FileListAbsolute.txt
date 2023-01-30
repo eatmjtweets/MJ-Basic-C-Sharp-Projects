@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\bin\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.exe
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\bin\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.deps.json
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\bin\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.runtimeconfig.json
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\bin\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.runtimeconfig.dev.json
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\bin\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.dll
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\bin\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.pdb
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.AssemblyInfo.cs
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.dll
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.pdb
+C:\Users\micha\source\repos\Boolean Logic Assignment Submission\Boolean Logic Assignment Submission\obj\Debug\netcoreapp3.1\Boolean Logic Assignment Submission.genruntimeconfig.cache
