@@ -14,7 +14,9 @@ namespace Branching_Assignment_Submission
 
             if (packageWeight > 50)
             {
+                //The program should end 
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
+                return;
             }
             else
             {
