@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\obj\Debug\netcoreapp3.1\Console App Array Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\obj\Debug\netcoreapp3.1\Console App Array Assignment Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\obj\Debug\netcoreapp3.1\Console App Array Assignment Submission.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\obj\Debug\netcoreapp3.1\Console App Array Assignment Submission.AssemblyInfo.cs
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\obj\Debug\netcoreapp3.1\Console App Array Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\bin\Debug\netcoreapp3.1\Console App Array Assignment Submission.exe
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\bin\Debug\netcoreapp3.1\Console App Array Assignment Submission.deps.json
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\bin\Debug\netcoreapp3.1\Console App Array Assignment Submission.runtimeconfig.json
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\bin\Debug\netcoreapp3.1\Console App Array Assignment Submission.runtimeconfig.dev.json
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\bin\Debug\netcoreapp3.1\Console App Array Assignment Submission.dll
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\bin\Debug\netcoreapp3.1\Console App Array Assignment Submission.pdb
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\obj\Debug\netcoreapp3.1\Console App Array Assignment Submission.dll
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\obj\Debug\netcoreapp3.1\Console App Array Assignment Submission.pdb
+C:\Users\micha\source\repos\Console App Array Assignment Submission\Console App Array Assignment Submission\obj\Debug\netcoreapp3.1\Console App Array Assignment Submission.genruntimeconfig.cache
