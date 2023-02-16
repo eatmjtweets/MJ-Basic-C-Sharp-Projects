@@ -3,52 +3,68 @@ using System.Collections.Generic;
 
     class Program
     {
-    static void Main()
+    static void Main(string[] args)
     {
-        Console.WriteLine("Chi would ask help again to? Choices are: \n Choose a number between 0 - 5.");
+        //Console.WriteLine("Chi always ask help to? Pick a number from 0 - 4: ");
 
-        string[] nameArray = new string[5];
+        //string[] names = new string[5];
 
-        nameArray[0] = "Lyka";
-        nameArray[1] = "Eliza";
-        nameArray[2] = "Kim";
-        nameArray[3] = "MJ";
-        nameArray[4] = "ManPreet";
-        nameArray[5] = "Tej";
+        //names[0] = "Lyka";
+        //names[1] = "Eliza";
+        //names[2] = "Kim";
+        //names[3] = "MJ";
+        //names[4] = "ManPreet";
 
-        int numArray = Convert.ToInt32(Console.ReadLine());
-        bool nameGuessed = numArray == nameArray[0];
-        do
+
+        //try
+        //{
+        //    int userInput = Convert.ToInt32(Console.ReadLine());
+        //    Console.WriteLine("You've picked " + names[userInput]);
+        //}
+
+        //catch (Exception x)
+        //{
+        //    Console.WriteLine(x.Message);
+        //}
+
+
+
+        //Console.WriteLine("Choose a number from 0 - 10: ");
+        //int[] ints = new int[] { 10, 20, 40, 80, 160, 320, 640, 1280, 1360, 2720, 5420 };
+
+        //try
+        //{
+        //    int userinput = Convert.ToInt32(Console.ReadLine());
+        //    Console.WriteLine("You got " + ints[userinput] + "!");
+        //}
+
+        //catch (Exception error)
+        //{
+        //    Console.WriteLine(error.Message);
+        //}
+
+
+
+        // STRING LISTS
+
+        try
         {
-            switch (name)
-                {
-                    // True Statement
-                    case 0:
-                    Console.WriteLine("Yup! sure it's always gonna be " + nameArray[0]);
-                    nameGuessed = true;
-                    break;
+            Console.WriteLine("Choose a number from 0 - 3 to get a random message: ");
+            List<string> stringList = new List<string>();
 
-                    case 1:
-                    Console.WriteLine("Nope! " + nameArray[1] + " is like 3rd to her options.");
-                    break;
+            stringList.Add("You can’t be late until you show up.");
+            stringList.Add("See rejection as redirection.");
+            stringList.Add("You were born an original don’t die a copy.");
+            stringList.Add("Be the change that you wish to see in the world.");
 
-                    case 2:
-                    Console.WriteLine("Nope! " + nameArray[2] + " is like 2rd to her options.");
-                    break;
-
-                    case 3:
-
-
-
-
-
-                }
+            int userInput = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(stringList[userInput]);
         }
 
-        int userInput = Convert.ToInt32(Console.ReadLine());
-        Console.ReadLine();
-
-
+        catch (Exception error)
+        {
+            Console.WriteLine(error.Message);
+        }
 
 
     }
