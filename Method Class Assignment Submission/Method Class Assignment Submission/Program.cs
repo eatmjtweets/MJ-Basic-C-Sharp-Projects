@@ -6,24 +6,13 @@ namespace Method_Class_Assignment_Submission
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Multiply two numbers: ");
-
-
+            multiply(6, 9);
         }
-        public void MathOperations()
+
+        static void multiply(int num1, int num2)
         {
-            Console.WriteLine(num1);
-
-            Console.WriteLine("Multiplied by: ");
-
-            Console.WriteLine(num2);
-
-            Console.WriteLine("The product is: " + num3);
-
-
-
-
-
+            int result = num1 * num2;
+            Console.WriteLine("The result is " + result);
         }
     }
 }
