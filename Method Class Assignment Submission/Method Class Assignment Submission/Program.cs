@@ -2,17 +2,21 @@
 
 namespace Method_Class_Assignment_Submission
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+         static void Main(string[] args)
         {
-            multiply(6, 9);
+            //instantiating class
+            MathOps Math = new MathOps();
+
+
+            Math.num1 = 5;
+            Math.num2 = 10;
+            Math.result = Math.num1 * Math.num2;
+
+            Console.WriteLine("The result is " + Math.result);
         }
 
-        static void multiply(int num1, int num2)
-        {
-            int result = num1 * num2;
-            Console.WriteLine("The result is " + result);
-        }
+        
     }
 }
